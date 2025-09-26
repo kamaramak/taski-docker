@@ -8,8 +8,11 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', '89.169.160.220', 'kamaramakamaramak.ddnsking.com']
-
+ALLOWED_HOSTS = [
+    'kamaramakamaramak.ddnsking.com',
+    'localhost', 
+    '127.0.0.1',
+]
 
 # Application definition
 

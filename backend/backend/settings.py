@@ -10,7 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'kamaramakamaramak.ddnsking.com',
-    'localhost', 
+    'localhost',
     '127.0.0.1',
 ]
 
